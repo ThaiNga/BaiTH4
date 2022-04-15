@@ -84,7 +84,7 @@ input{
     font-size: 20px;
 }
 .hot-news-left{
-    background-image: url(../images/msi-2019.jpg);
+    background-image: url(./images/msi-2019.jpg);
     background-size: cover;
     filter: brightness(0.8);
 }
@@ -94,7 +94,7 @@ input{
     gap: 5px;
 }
 .player{
-    background-image: url(../images/msi-2019-players.jpg);
+    background-image: url(./images/msi-2019-players.jpg);
     background-size: cover;
     filter: brightness(0.8);
 }
@@ -104,12 +104,12 @@ input{
     gap: 5px;
 }
 .players-left{
-    background-image: url(../images/levi-jdk.jpg);
+    background-image: url(./images/levi-jdk.jpg);
     background-size: cover;
     filter: brightness(0.8);
 }
 .players-right{
-    background-image: url(../images/kieu-anh-hera.jpg);
+    background-image: url(./images/kieu-anh-hera.jpg);
     background-size: cover;
     filter: brightness(0.8);
 }
